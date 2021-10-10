@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games", "Games\Games.csproj", "{6A6F1DFA-640E-410F-BB94-655AADF057B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesTest", "GamesTest\GamesTest.csproj", "{D673D5BF-044F-4FD9-925A-EFCAAA7EFCC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameApplication", "GameApplication\GameApplication.csproj", "{57A17773-5150-4C9C-A0B1-32690671376A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6F1DFA-640E-410F-BB94-655AADF057B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A6F1DFA-640E-410F-BB94-655AADF057B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A6F1DFA-640E-410F-BB94-655AADF057B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A6F1DFA-640E-410F-BB94-655AADF057B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D673D5BF-044F-4FD9-925A-EFCAAA7EFCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D673D5BF-044F-4FD9-925A-EFCAAA7EFCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D673D5BF-044F-4FD9-925A-EFCAAA7EFCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D673D5BF-044F-4FD9-925A-EFCAAA7EFCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A17773-5150-4C9C-A0B1-32690671376A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A17773-5150-4C9C-A0B1-32690671376A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A17773-5150-4C9C-A0B1-32690671376A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A17773-5150-4C9C-A0B1-32690671376A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {653B0182-D1EA-498B-9CE4-A583C42009F5}
+	EndGlobalSection
+EndGlobal
